@@ -7,7 +7,8 @@
 |---|---|
 
 ## Modpacks
-- List of Modpacks made by me
+- [AllMyCosmetics (v1.0) by Nox](Modpacks/AllMyCosmetics)
 
 ## Profiles
-- List of Profiles made by me
+- VanillaFriendly (v1.0) by Nox
+- MoreMoons (v1.0) by Bambus Panda
