@@ -10,5 +10,5 @@
 - [AllMyCosmetics by Nox](Modpacks/AllMyCosmetics)
 
 ## Profiles
-- [VanillaFriendly by Nox](Profiles/VanillaFriendly1)
-- MoreMoons by Bambus Panda
+- [VanillaFriendly by Nox](Profiles/VanillaFriendly%20by%20Nox)
+- [MoreMoons by Bambus Panda](Profiles/MoreMoons%20by%20Bambus%20Panda)
